@@ -2,6 +2,7 @@
 
 An end-to-end machine learning pipeline that delivers personalized product recommendations for an e-commerce platform using AWS services. This repository demonstrates how to ingest data from AWS S3, preprocess and engineer features, train a recommendation model using XGBoost, deploy the model on Amazon SageMaker, and expose the model via RESTful APIs using AWS API Gateway and Lambda.
 
+![diagram](https://github.com/user-attachments/assets/9d8ddf58-2dab-4b32-981e-027ade1c2d38)
 
 
 ## Table of Contents
