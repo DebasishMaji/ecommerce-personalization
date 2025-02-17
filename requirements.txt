@@ -1,0 +1,7 @@
+boto3
+sagemaker
+pandas
+numpy
+xgboost
+matplotlib
+seaborn
